@@ -26,12 +26,6 @@ WebFontConfig = {
 $.contactButtons({
   effect  : 'slide-on-scroll',
   buttons : {
-    'facebook':   { class: 'facebook', use: true, link: 'https://www.facebook.com/', extras: 'target="_blank"' },
-    'twitter':    { class: 'twitter',use:true,link: 'https://twitter.com/', extras: 'target="_blank"' },
-    'youtube':    { class: 'youtube',      use: true, link: 'https://www.youtube.com/', icon: 'youtube', extras: 'target="_blank"', title: 'Visit YouTube Channel'  },
-    'googleplus': { class: 'gplus',      use: true, link: 'https://www.youtube.com/channel/', icon: 'google-plus', extras: 'target="_blank"' , title: 'Visit on Google Plus'  },
-
-    'phone':      { class: 'phone separated',    use: true, link: '+966112705882',  title:'' },
-    'email':      { class: 'email',    use: true, link: 'info@signlabadv.com' }
+    
   }
 });
