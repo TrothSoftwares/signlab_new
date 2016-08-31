@@ -10560,6 +10560,8 @@ blockquote.pull-right {
 	float: left;
 	-webkit-tap-highlight-color: transparent;
 	-webkit-touch-callout: none;
+	border: 1px solid #eeeeee;
+	border-radius: 1px;
 }
 
 .owl-carousel .owl-item img {
