@@ -1156,7 +1156,7 @@ body.stretched #header.full-header .container {
 }
 
 #primary-menu ul li:hover > a,
-#primary-menu ul li.current > a { color: #017FB3; }
+#primary-menu ul li.current > a { color: #2B7782; }
 
 #primary-menu > ul > li.sub-menu > a > div { }
 
@@ -1171,7 +1171,7 @@ body.no-superfish #primary-menu li:hover > .mega-menu-content { display: block; 
 	background-color: #FFF;
 	box-shadow: 0px 13px 42px 11px rgba(0, 0, 0, 0.05);
 	border: 1px solid #EEE;
-	border-top: 2px solid #1ABC9C;
+	border-top: 2px solid #66C3D0;
 	height: auto;
 	z-index: 199;
 	top: 100%;
@@ -2159,7 +2159,7 @@ body.top-search-open #top-account { opacity: 0; }
 
 #page-menu-wrap {
 	z-index: 99;
-	background-color: #017FB3;
+	background-color: #2B7782;
 	-webkit-transform: translate3d(0,0,0);
 	-ms-transform: translate3d(0,0,0);
 	-o-transform: translate3d(0,0,0);
@@ -2240,8 +2240,8 @@ body:not(.device-touch) #page-menu nav li a {
 	transition: all .2s ease-in-out;
 }
 
-#page-menu nav li:hover a,
-#page-menu nav li.current a { background-color: rgba(0,0,0,0.15); }
+#page-menu nav li:hover a { background-color: rgba(102,195,208,0.5); }
+#page-menu nav li.current a { background-color: rgba(102,195,208,0.4); }
 
 #page-menu li:hover ul { display: block; }
 
@@ -6616,7 +6616,7 @@ body:not(.device-xs):not(.device-xxs) .countdown.countdown-large.coming-soon .co
 	font-size: 14px;
 	height: 40px;
 	line-height: 40px;
-	background-color: #017FB3;
+	background-color: #2B7782;
 	color: #FFF;
 	font-weight: 600;
 	text-transform: uppercase;
@@ -6803,7 +6803,7 @@ body:not(.device-touch) .button {
 }
 
 .button.button-3d:hover {
-	background-color: #1ABC9C !important;
+	background-color: #66C3D0 !important;
 	opacity: 0.9;
 }
 
@@ -7510,7 +7510,7 @@ body:not(.device-touch) .button.button-full strong {
 .feature-box .fbox-icon i,
 .feature-box .fbox-icon img {
 	border-radius: 50%;
-	background-color: #adadad;
+	background-color: #2B7782;
 	margin-top: 20px;
 
 }
@@ -11336,7 +11336,7 @@ label.error { display: none !important; }
 	display: block;
 	background: transparent;
 	padding: 0 0 10px;
-	border-bottom: 2px solid #017FB3;
+	border-bottom: 2px solid #2B7782;
 }
 
 
@@ -11582,7 +11582,7 @@ body:not(.device-touch) #gotoTop {
 
 .stretched #gotoTop { bottom: 30px; }
 
-#gotoTop:hover { background-color: #1ABC9C; }
+#gotoTop:hover { background-color: #66C3D0; }
 
 
 /* ----------------------------------------------------------------
